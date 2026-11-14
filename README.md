@@ -3,9 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F5D6E6&height=150&section=header&text=ey2222's%20GitHub&fontSize=40&fontColor=ffffff" width="100%" />
 </p>
 
-### 🌱 About Me
-- 💡 기획과 서비스 개발에 관심이 있습니다.
-- 🎨 UI/UX와 프론트엔드를 공부하고 있습니다.
+//### 🌱 About Me
+//- 💡 기획과 서비스 개발에 관심이 있습니다.
+//- 🎨 UI/UX와 프론트엔드를 공부하고 있습니다.
 
 
 ### 🛠️ Tech Stack
